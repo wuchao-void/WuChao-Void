@@ -1,0 +1,30 @@
+<html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>HTML示例</title>
+  <style type="text/css">
+     #l {
+	 color:#990099;
+	 }
+  </style>
+ </head>
+ <body>
+ <div id="l">对我来说世界上最美秒的三个字是以李字开头璇字结尾</div>
+  <script type="text/javascript">
+         var flag=false;
+		 while(!flag){
+               flag=window.confirm("yyzmgf?");
+			   alert("f");
+			   alert("报答");
+			   alert("tingnide");
+			   flag=window.confirm("yyzmgf?");
+			   }
+			   alert("buyaopianren");
+  </script>
+ </body>
+</html>
